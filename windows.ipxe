@@ -23,7 +23,7 @@ goto ${win_version}
 
 :image_set
 menu Image
-item babygirl
+item babygirl babygirl
 item Win10_20H2_English_x64 Win10_20H2_English_x64
 choose win_image && goto windows
 
